@@ -1,8 +1,8 @@
-# Igni Labs
+# IgniLabs
 
 ![Igni Labs Logo](logo.png)
 
-Welcome to Igni Labs on GitHub! We're passionate about innovation and technology, and this repository serves as a gateway to our work, projects, and contributions to the tech community.
+Welcome to IgniLabs on GitHub! We're passionate about innovation and technology, and this repository serves as a gateway to our work, projects, and contributions to the tech community.
 
 ## About Us
 
@@ -23,6 +23,6 @@ At Igni Labs, we believe that ideas have the power to ignite transformative chan
 
 ## Let's Ignite Innovation Together
 
-Join us on this exhilarating journey of exploration, experimentation, and innovation. Igni Labs is where ideas ignite, and innovation powers progress. Together, we can shape the future of technology.
+Join us on this exhilarating journey of exploration, experimentation, and innovation. IgniLabs is where ideas ignite, and innovation powers progress. Together, we can shape the future of technology.
 
-Thank you for being part of the Igni Labs community! 🔥
+Thank you for being part of the IgniLabs community! 🔥
